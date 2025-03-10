@@ -38,5 +38,4 @@ export default defineConfig({
 			}
 		}
 	},
-	prefetch: true,
 })
